@@ -4,6 +4,9 @@ using System.Text;
 
 namespace TrackerLibrary
 {
+    /// <summary>
+    /// Team Member Data Model
+    /// </summary>
     public class PersonModel
     {
         public string FirstName { get; set; }
