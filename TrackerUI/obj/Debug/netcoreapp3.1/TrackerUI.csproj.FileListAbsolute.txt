@@ -1,0 +1,15 @@
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.exe
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.deps.json
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.runtimeconfig.json
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.runtimeconfig.dev.json
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.dll
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.pdb
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csprojAssemblyReference.cache
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.TournamentDashboard.resources
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.GenerateResource.cache
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.AssemblyInfoInputs.cache
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.AssemblyInfo.cs
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.CoreCompileInputs.cache
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.dll
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.pdb
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.genruntimeconfig.cache
