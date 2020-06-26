@@ -1,6 +1,6 @@
 ﻿namespace TrackerUI
 {
-    partial class TournamentDashboard
+    partial class TournamentDashboardForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TournamentDashboard));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TournamentDashboardForm));
             this.tournamentDashboardLabel = new System.Windows.Forms.Label();
             this.tournamentNameLabel = new System.Windows.Forms.Label();
             this.tournamentsDropDown = new System.Windows.Forms.ComboBox();

@@ -88,7 +88,6 @@
             this.prizeValueLabel.Size = new System.Drawing.Size(141, 37);
             this.prizeValueLabel.TabIndex = 0;
             this.prizeValueLabel.Text = "Prize Value";
-            this.prizeValueLabel.Click += new System.EventHandler(this.label3_Click);
             // 
             // placeNameTextBox
             // 
@@ -136,7 +135,6 @@
             this.orLabel.Size = new System.Drawing.Size(41, 37);
             this.orLabel.TabIndex = 0;
             this.orLabel.Text = "or";
-            this.orLabel.Click += new System.EventHandler(this.label3_Click);
             // 
             // createPrizeButton
             // 

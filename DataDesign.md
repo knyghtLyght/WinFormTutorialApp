@@ -1,3 +1,5 @@
+![TournamentTrackerDB.png](/MdAssets/TournamentTrackerDB.png)
+
 ## Team
 * ID (int)
 * TeamName (string)
