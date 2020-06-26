@@ -122,7 +122,7 @@
             this.selectTeamLabel.AutoSize = true;
             this.selectTeamLabel.Font = new System.Drawing.Font("Segoe UI Light", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.selectTeamLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
-            this.selectTeamLabel.Location = new System.Drawing.Point(416, 73);
+            this.selectTeamLabel.Location = new System.Drawing.Point(334, 73);
             this.selectTeamLabel.Name = "selectTeamLabel";
             this.selectTeamLabel.Size = new System.Drawing.Size(160, 37);
             this.selectTeamLabel.TabIndex = 0;
@@ -132,7 +132,7 @@
             // 
             this.selectTeamListBox.FormattingEnabled = true;
             this.selectTeamListBox.ItemHeight = 25;
-            this.selectTeamListBox.Location = new System.Drawing.Point(416, 113);
+            this.selectTeamListBox.Location = new System.Drawing.Point(334, 113);
             this.selectTeamListBox.Name = "selectTeamListBox";
             this.selectTeamListBox.Size = new System.Drawing.Size(252, 354);
             this.selectTeamListBox.TabIndex = 6;
@@ -142,7 +142,7 @@
             this.activeTeamsLabel.AutoSize = true;
             this.activeTeamsLabel.Font = new System.Drawing.Font("Segoe UI Light", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.activeTeamsLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
-            this.activeTeamsLabel.Location = new System.Drawing.Point(780, 73);
+            this.activeTeamsLabel.Location = new System.Drawing.Point(698, 73);
             this.activeTeamsLabel.Name = "activeTeamsLabel";
             this.activeTeamsLabel.Size = new System.Drawing.Size(162, 37);
             this.activeTeamsLabel.TabIndex = 0;
@@ -152,7 +152,7 @@
             // 
             this.activeTeamsListBox.FormattingEnabled = true;
             this.activeTeamsListBox.ItemHeight = 25;
-            this.activeTeamsListBox.Location = new System.Drawing.Point(780, 113);
+            this.activeTeamsListBox.Location = new System.Drawing.Point(698, 113);
             this.activeTeamsListBox.Name = "activeTeamsListBox";
             this.activeTeamsListBox.Size = new System.Drawing.Size(252, 354);
             this.activeTeamsListBox.TabIndex = 6;
@@ -164,7 +164,7 @@
             this.newTeamButton.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
             this.newTeamButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.newTeamButton.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.newTeamButton.Location = new System.Drawing.Point(674, 114);
+            this.newTeamButton.Location = new System.Drawing.Point(592, 114);
             this.newTeamButton.Name = "newTeamButton";
             this.newTeamButton.Size = new System.Drawing.Size(100, 75);
             this.newTeamButton.TabIndex = 5;
@@ -178,7 +178,7 @@
             this.addTeamBUtton.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
             this.addTeamBUtton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.addTeamBUtton.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.addTeamBUtton.Location = new System.Drawing.Point(674, 195);
+            this.addTeamBUtton.Location = new System.Drawing.Point(592, 195);
             this.addTeamBUtton.Name = "addTeamBUtton";
             this.addTeamBUtton.Size = new System.Drawing.Size(100, 46);
             this.addTeamBUtton.TabIndex = 5;
@@ -192,7 +192,7 @@
             this.removeTeamButton.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
             this.removeTeamButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.removeTeamButton.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.removeTeamButton.Location = new System.Drawing.Point(674, 247);
+            this.removeTeamButton.Location = new System.Drawing.Point(592, 247);
             this.removeTeamButton.Name = "removeTeamButton";
             this.removeTeamButton.Size = new System.Drawing.Size(100, 49);
             this.removeTeamButton.TabIndex = 5;
@@ -206,7 +206,7 @@
             this.createTournamentButton.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
             this.createTournamentButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.createTournamentButton.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.createTournamentButton.Location = new System.Drawing.Point(574, 473);
+            this.createTournamentButton.Location = new System.Drawing.Point(511, 473);
             this.createTournamentButton.Name = "createTournamentButton";
             this.createTournamentButton.Size = new System.Drawing.Size(268, 46);
             this.createTournamentButton.TabIndex = 5;
@@ -232,7 +232,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1077, 542);
+            this.ClientSize = new System.Drawing.Size(999, 542);
             this.Controls.Add(this.removePrizeButton);
             this.Controls.Add(this.createTournamentButton);
             this.Controls.Add(this.removeTeamButton);
