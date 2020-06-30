@@ -16,3 +16,6 @@ G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1
 G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.CreateTeamForm.resources
 G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.CreateTournamentForm.resources
 G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.TournamentDashboardForm.resources
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerLibrary.dll
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerLibrary.pdb
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.CopyComplete

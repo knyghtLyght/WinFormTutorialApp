@@ -1,0 +1,9 @@
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerLibrary\bin\Debug\netcoreapp3.1\TrackerLibrary.deps.json
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerLibrary\bin\Debug\netcoreapp3.1\TrackerLibrary.dll
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerLibrary\bin\Debug\netcoreapp3.1\TrackerLibrary.pdb
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.csprojAssemblyReference.cache
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.AssemblyInfoInputs.cache
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.AssemblyInfo.cs
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.csproj.CoreCompileInputs.cache
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.dll
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.pdb

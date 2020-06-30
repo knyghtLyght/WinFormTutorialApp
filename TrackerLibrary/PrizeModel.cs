@@ -1,11 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using System.Text;
 
 namespace TrackerLibrary
 {
     public class PrizeModel
     {
+        /// <summary>
+        /// The Unique model identifier
+        /// </summary>
+        public int Id { get; set; }
+
         /// <summary>
         /// Represents the torunament rank this prize is for
         /// </summary>
@@ -25,5 +31,27 @@ namespace TrackerLibrary
         /// The percentage of the prize pool this prize represents
         /// </summary>
         public double PrizePercentage { get; set; }
+
+        public PrizeModel()
+        {
+
+        }
+
+        public PrizeModel(string placeNumber, string placeName, string prizeValue, string prizePercentage)
+        {
+            int placeNumberValue = 0;
+            int.TryParse(placeNumber, out placeNumberValue);
+            PlaceNumber = placeNumberValue;
+
+            PlaceName = placeName;
+
+            decimal parsedPrizeValue = 0;
+            decimal.TryParse(prizeValue, out parsedPrizeValue);
+            PrizeValue = parsedPrizeValue;
+
+            double prizePercentageValue = 0;
+            double.TryParse(prizePercentage, out prizePercentageValue);
+            PrizePercentage = prizePercentageValue;
+        }
     }
 }
