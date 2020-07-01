@@ -5,7 +5,7 @@ using TrackerLibrary.Models;
 
 namespace TrackerLibrary.DataAccess
 {
-    public class SqlConnector : IDataConnection
+    public class SqlConnection : IDataConnection
     {
         // TODO - Make the method actually save to the db
         /// <summary>

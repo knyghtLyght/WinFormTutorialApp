@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OadFKoLS0DbCyii6pqAhonAw5L+fZchMKy8OH6R0RyBfZ+O2PVqpAGEYg9f2GVYJDEJj5q85dE+HMmEznRBbtg==",
+  "dgSpecHash": "6LAX0F3S8851WkKjpW4ETiKsfFqscBdAJThGKhNNy540ACToYiWt5upna0YuS6LM8cflcJpEhC6rpvlUFhnBNA==",
   "success": true,
   "projectFilePath": "G:\\Learning\\Youtube\\TimCorey\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
