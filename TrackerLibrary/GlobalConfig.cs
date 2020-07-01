@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using TrackerLibrary.DataAccess;
@@ -8,23 +9,28 @@ namespace TrackerLibrary
 {
     public static class GlobalConfig
     {
-        public static List<IDataConnection> Connections { get; private set; } = new List<IDataConnection>();
+        public static IDataConnection Connection { get; private set; }
 
-        public static void InitializeConnections(bool dataBase, bool textFiles)
+        public static void InitializeConnections(DatabaseType connectionType)
         {
-            if (dataBase)
+            if (connectionType == DatabaseType.Sql)
             {
                 // TODO - Create sql connection properly
-                SqlConnection sql = new SqlConnection();
-                Connections.Add(sql);
+                SqlConnector sql = new SqlConnector();
+                Connection = sql;
             }
 
-            if (textFiles)
+            else if (connectionType == DatabaseType.TextFile)
             {
                 // TODO - Create actual text file connection
-                TextConnection text = new TextConnection();
-                Connections.Add(text);
+                TextConnector text = new TextConnector();
+                Connection = text;
             }
+        }
+
+        public static string ConnString(string name)
+        {
+            return ConfigurationManager.ConnectionStrings[name].ConnectionString;
         }
     }
 }

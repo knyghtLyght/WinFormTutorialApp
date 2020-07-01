@@ -19,3 +19,11 @@ G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1
 G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerLibrary.dll
 G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerLibrary.pdb
 G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.CopyComplete
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.dll.config
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\Dapper.dll
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Learning\Youtube\TimCorey\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

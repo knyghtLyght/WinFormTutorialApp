@@ -28,10 +28,7 @@ namespace TrackerUI
                     prizeValueTextBox.Text,
                     prizePercentageTextbox.Text);
 
-                foreach (IDataConnection db in GlobalConfig.Connections)
-                {
-                    db.CreatePirze(model);
-                }
+                GlobalConfig.Connection.CreatePirze(model);
 
                 // Reset Form
                 placeNumberTextBox.Text = "";
