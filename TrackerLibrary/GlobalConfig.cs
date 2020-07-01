@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection.Metadata.Ecma335;
 using System.Text;
+using TrackerLibrary.DataAccess;
 
 namespace TrackerLibrary
 {
@@ -21,7 +22,7 @@ namespace TrackerLibrary
             if (textFiles)
             {
                 // TODO - Create actual text file connection
-                TextConnector text = new TextConnector();
+                TextConnection text = new TextConnection();
                 Connections.Add(text);
             }
         }
