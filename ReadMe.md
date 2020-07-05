@@ -10,3 +10,6 @@ YouTube tutorial provided by Tim Corey
 - Dapper
 
 ## Tutorial extentions
+- Form visual redesign
+- Adaptation to .Net Core
+- 
